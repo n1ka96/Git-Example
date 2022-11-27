@@ -1,5 +1,5 @@
 这是master分支！！
 这是master分支！！
 这是master分支！！
-这是master分支！！
-这是master分支！！
+这是master分支！！这里是冲突
+这是master分支！！这里是冲突
