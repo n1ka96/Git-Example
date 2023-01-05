@@ -2,5 +2,8 @@
 
 测试一下git merge
 
+我在远端修改了
+
+
 
 测试reset！
